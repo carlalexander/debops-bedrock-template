@@ -1,3 +1,23 @@
+### 1.7.10: 2017-06-08
+
+* Update to WordPress 4.8.0
+
+### 1.7.9: 2017-05-16
+
+* Update to WordPress 4.7.5
+
+### 1.7.8: 2017-05-03
+
+* Update `johnpbloch/wordpress` to 4.7.4.1 (see https://github.com/johnpbloch/wordpress/issues/32)
+
+### 1.7.7: 2017-04-20
+
+* Update to WordPress 4.7.4
+
+### 1.7.6: 2017-03-06
+
+* Update to WordPress 4.7.3
+
 ### 1.7.5: 2017-01-26
 
 * Update to WordPress 4.7.2
